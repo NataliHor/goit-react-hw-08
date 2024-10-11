@@ -9,7 +9,7 @@ export default function Contact({ contact: { id, name, number } }) {
 
   return (
     <div className={css.container}>
-      <ul>
+      <ul className={css.ul}>
         <li className={css.text}>
           <FaUser />
           {name}

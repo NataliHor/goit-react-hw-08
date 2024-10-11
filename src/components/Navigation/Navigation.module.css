@@ -2,10 +2,11 @@
   display: flex;
   align-items: center;
   gap: 20px;
+  padding-right: 40px;
 }
 
 .noActive {
-  color: white;
+  color: black;
 }
 
 .active {

@@ -5,13 +5,9 @@
 }
 
 .noActive {
-  color: white;
+  color: black;
 }
 
 .active {
   color: red;
-}
-
-.test {
-  color: yellow;
 }
