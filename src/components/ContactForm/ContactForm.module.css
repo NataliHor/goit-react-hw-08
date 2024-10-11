@@ -1,0 +1,21 @@
+.form {
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+.field {
+  font: inherit;
+  padding: 4px;
+}
+.formGroup {
+  display: flex;
+  flex-direction: column;
+}
+
+.btn {
+  border: 1px solid black;
+}
